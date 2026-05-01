@@ -1,0 +1,4 @@
+/target
+*.redb
+rust_out*
+config.dev.toml
